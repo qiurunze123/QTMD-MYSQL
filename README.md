@@ -13,14 +13,14 @@
 
 ```diff
 
-mysql 索引
-mysql 事务
-mysql 主从
-mysql 性能
-mysql 日志
-mysql 锁
-mysql 用法及规范
-mysql 一些奇淫技巧
+! mysql 索引
+! mysql 事务
+! mysql 主从
+! mysql 性能
+! mysql 日志
+! mysql 锁
+! mysql 用法及规范
+! mysql 一些奇淫技巧
 
 ```
 ### 多线程基础更新
