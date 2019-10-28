@@ -20,12 +20,14 @@
   
  | ID | Problem  | Article | 
  | --- | ---   | :--- |
- | 000 |mysql 索引问题 | [解决思路](/docs/mysql000.md) |
- | 001 |mysql 日志问题 | [解决思路](/docs/mysql001.md) |
- | 002 |mysql 存储引擎问题 |[解决思路](/docs/mysql002.md)  |
- | 003 |mysql 架构问题 |[解决思路](/docs/mysql003.md)  |
- | 004 |mysql 备份问题 |[解决思路](/docs/mysql004.md)  |
- | 005 |mysql 监控问题 |[解决思路](/docs/mysql005.md)  |
- | 006 |mysql 分库分表问题 |[解决思路](/docs/mysql006.md)  |
- | 007 |mysql 慢查询日志问题 |[解决思路](/docs/mysql007.md)  |
+ | 000 |mysql 版本问题 | [解决思路](/docs/mysql000.md) |
+ | 001 |mysql 慢查询问题 | [解决思路](/docs/mysql001.md) |
+ | 002 |mysql 用户管理类问题 |[解决思路](/docs/mysql002.md)  |
+ | 003 |mysql 服务器配置问题 |[解决思路](/docs/mysql003.md)  |
+ | 004 |mysql 日志类问题 |[解决思路](/docs/mysql004.md)  |
+ | 005 |mysql 存储引擎类问题 |[解决思路](/docs/mysql005.md)  |
+ | 006 |mysql mysql架构类问题 |[解决思路](/docs/mysql006.md)  |
+ | 007 |mysql 备份类回复问题 |[解决思路](/docs/mysql007.md)  |
+ | 008 |mysql 管理和监控问题 |[解决思路](/docs/mysql007.md)  |
+ | 008 |mysql  |[解决思路](/docs/mysql007.md)  |
 
